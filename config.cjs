@@ -22,7 +22,8 @@ module.exports = {
   "ANTI_LINK": process.env.ANTI_LINK === 'true',
   "ANTI_GROUP_LINK": process.env.ANTI_GROUP_LINK === 'true',
   "ANTI_DELETE": process.env.ANTI_DELETE === 'true',
-  "ANTI_VIEW_ONCE": process.env.ANTI_VIEW_ONCE === 'true',
+  "ANTI_VIEW_ONCE": process.env.ANTI_VIEW_ONCE === 'https://github.com/HyHamza/BYTE-MD.git
+    ',
   "ANTI_BOT": process.env.ANTI_BOT === 'true',
   "PREMIUM_USERS": process.env.PREMIUM_USERS || "",
   "COUNTRY_BLOCK": process.env.COUNTRY_BLOCK === 'true',
